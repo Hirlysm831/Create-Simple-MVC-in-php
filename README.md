@@ -12,7 +12,9 @@ My URLs are:-
     http://localhost/mvc/?type=login
 
 Since, SEO is an important part of any application, I am making the URLs as:-
+    
     http://localhost/mvc/register
+    and
     http://localhost/mvc/login
 
 Using .htaccess in php (http://cj7.info/htaccess).
